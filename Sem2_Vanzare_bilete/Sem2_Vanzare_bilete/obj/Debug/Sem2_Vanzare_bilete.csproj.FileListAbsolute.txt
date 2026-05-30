@@ -1,0 +1,9 @@
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\bin\Debug\Sem2_Vanzare_bilete.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\bin\Debug\Sem2_Vanzare_bilete.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\bin\Debug\Sem2_Vanzare_bilete.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\obj\Debug\Sem2_Vanzare_bilete.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\obj\Debug\Sem2_Vanzare_bilete.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\obj\Debug\Sem2_Vanzare_bilete.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\obj\Debug\Sem2_Vanzare_bilete.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\obj\Debug\Sem2_Vanzare_bilete.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem2_Vanzare_bilete\Sem2_Vanzare_bilete\obj\Debug\Sem2_Vanzare_bilete.pdb

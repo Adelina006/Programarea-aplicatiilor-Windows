@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\biletsenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\biletsenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\casabilete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\casabilete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\biletvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\biletvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\ivalabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\ivalabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\tipfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\tipfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem2_vanzare_bilete\\sem2_vanzare_bilete\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67E55F06-2F79-4035-ADC4-1EEC8B17DD3B}|Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete.csproj|solutionrelative:sem2_vanzare_bilete\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Program.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\Program.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Program.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:21:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasaBilete.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\CasaBilete.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\CasaBilete.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\CasaBilete.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\CasaBilete.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:08:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiletVIP.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\BiletVIP.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\BiletVIP.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\BiletVIP.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\BiletVIP.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA/wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:03:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BiletSenior.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\BiletSenior.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\BiletSenior.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\BiletSenior.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\BiletSenior.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:59:35.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BiletStudent.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\BiletStudent.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\BiletStudent.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\BiletStudent.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\BiletStudent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:49:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipFilm.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\TipFilm.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\TipFilm.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\TipFilm.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\TipFilm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:33:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bilet.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Bilet.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\Bilet.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Bilet.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\Bilet.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:29:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IValabil.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\IValabil.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\IValabil.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\IValabil.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\IValabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:29:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPretCalculabil.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\IPretCalculabil.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\IPretCalculabil.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\IPretCalculabil.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\IPretCalculabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:27:44.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Client.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\Client.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Client.cs",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\Client.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:22:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Form1.cs",
+              "RelativeDocumentMoniker": "Sem2_Vanzare_bilete\\Form1.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem2_Vanzare_bilete\\Sem2_Vanzare_bilete\\Form1.cs [Design]",
+              "RelativeToolTip": "Sem2_Vanzare_bilete\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:11:07.782Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
