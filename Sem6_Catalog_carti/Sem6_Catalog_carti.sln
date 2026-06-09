@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sem6_Catalog_carti", "Sem6_Catalog_carti\Sem6_Catalog_carti.csproj", "{518D654F-4567-47AF-BB3E-99787826DDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518D654F-4567-47AF-BB3E-99787826DDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518D654F-4567-47AF-BB3E-99787826DDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518D654F-4567-47AF-BB3E-99787826DDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518D654F-4567-47AF-BB3E-99787826DDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BCDA8E-E207-47F4-B799-6D017A81626C}
+	EndGlobalSection
+EndGlobal

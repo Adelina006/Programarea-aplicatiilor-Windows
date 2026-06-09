@@ -1,0 +1,9 @@
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\bin\Debug\Sem3_Urmarire_Comenzi.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\bin\Debug\Sem3_Urmarire_Comenzi.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\bin\Debug\Sem3_Urmarire_Comenzi.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\obj\Debug\Sem3_Urmarire_Comenzi.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\obj\Debug\Sem3_Urmarire_Comenzi.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\obj\Debug\Sem3_Urmarire_Comenzi.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\obj\Debug\Sem3_Urmarire_Comenzi.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\obj\Debug\Sem3_Urmarire_Comenzi.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem3_Urmarire_Comenzi\Sem3_Urmarire_Comenzi\obj\Debug\Sem3_Urmarire_Comenzi.pdb

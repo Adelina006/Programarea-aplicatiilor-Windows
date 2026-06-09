@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfAngajat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Angajat>
+    <Nume>Alesia</Nume>
+    <DataNasterii>2026-06-01T09:39:57.99</DataNasterii>
+    <IdCompanie>2</IdCompanie>
+    <Id>9</Id>
+  </Angajat>
+  <Angajat>
+    <Nume>Ana Maria</Nume>
+    <DataNasterii>1997-08-10T00:00:00</DataNasterii>
+    <IdCompanie>1</IdCompanie>
+    <Id>6</Id>
+  </Angajat>
+  <Angajat>
+    <Nume>Ana Maria</Nume>
+    <DataNasterii>2002-04-03T00:00:00</DataNasterii>
+    <IdCompanie>2</IdCompanie>
+    <Id>2</Id>
+  </Angajat>
+  <Angajat>
+    <Nume>Cristina Calin</Nume>
+    <DataNasterii>2005-02-18T00:00:00</DataNasterii>
+    <IdCompanie>3</IdCompanie>
+    <Id>3</Id>
+  </Angajat>
+  <Angajat>
+    <Nume>Ioana</Nume>
+    <DataNasterii>2026-06-01T09:39:57.99</DataNasterii>
+    <IdCompanie>0</IdCompanie>
+    <Id>8</Id>
+  </Angajat>
+  <Angajat>
+    <Nume>Ion Ionel</Nume>
+    <DataNasterii>1990-12-09T00:00:00</DataNasterii>
+    <IdCompanie>1</IdCompanie>
+    <Id>1</Id>
+  </Angajat>
+  <Angajat>
+    <Nume>Mama</Nume>
+    <DataNasterii>2026-06-01T09:41:02.857</DataNasterii>
+    <IdCompanie>1</IdCompanie>
+    <Id>10</Id>
+  </Angajat>
+</ArrayOfAngajat>

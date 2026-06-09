@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\angajatirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\angajatirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\formangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\formangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\formangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\formangajati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\companie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\companie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\subiect2025_gestiune_angajati\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EF511-8A5A-4793-98E1-A0260DD4A0CF}|Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati.csproj|solutionrelative:subiect2025_gestiune_angajati\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AngajatiRepo.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\AngajatiRepo.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\AngajatiRepo.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\AngajatiRepo.cs*",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\AngajatiRepo.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:15:51.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Form1.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\Form1.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Form1.cs [Design]",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:38:46.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Form1.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\Form1.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Form1.cs",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:42:21.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAngajati.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\FormAngajati.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\FormAngajati.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\FormAngajati.cs*",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\FormAngajati.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:49:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAngajati.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\FormAngajati.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\FormAngajati.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\FormAngajati.cs [Design]*",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\FormAngajati.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:48:37.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\FakeDatabase.cs",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\FakeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:12:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Companie.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Companie.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\Companie.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Companie.cs",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\Companie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:40:06.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Angajat.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Angajat.cs",
+              "RelativeDocumentMoniker": "Subiect2025_gestiune_angajati\\Angajat.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Subiect2025_gestiune_angajati\\Subiect2025_gestiune_angajati\\Angajat.cs",
+              "RelativeToolTip": "Subiect2025_gestiune_angajati\\Angajat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:41:02.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

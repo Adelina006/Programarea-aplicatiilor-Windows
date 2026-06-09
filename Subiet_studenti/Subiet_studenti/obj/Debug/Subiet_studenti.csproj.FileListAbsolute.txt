@@ -1,0 +1,15 @@
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\bin\Debug\StudentiDBmdf.mdf
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\bin\Debug\StudentiDBmdf_log.ldf
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\bin\Debug\Subiet_studenti.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\bin\Debug\Subiet_studenti.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\bin\Debug\Subiet_studenti.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.TextBoxEtichetat.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiet_studenti\Subiet_studenti\obj\Debug\Subiet_studenti.FormEditare.resources

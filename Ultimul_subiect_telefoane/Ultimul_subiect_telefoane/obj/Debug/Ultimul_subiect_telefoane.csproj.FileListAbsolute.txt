@@ -1,0 +1,14 @@
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\bin\Debug\Ultimul_subiect_telefoane.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\bin\Debug\Ultimul_subiect_telefoane.exe
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\bin\Debug\Ultimul_subiect_telefoane.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.exe
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\bin\Debug\Telefoane.mdf
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\bin\Debug\Telefoane_log.ldf
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Ultimul_subiect_telefoane\Ultimul_subiect_telefoane\obj\Debug\Ultimul_subiect_telefoane.FormAdaugare.resources

@@ -1,0 +1,11 @@
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\bin\Debug\Sem4_Registru_contacte.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\bin\Debug\Sem4_Registru_contacte.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\bin\Debug\Sem4_Registru_contacte.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem4_Registru_contacte\Sem4_Registru_contacte\obj\Debug\Sem4_Registru_contacte.exe.config

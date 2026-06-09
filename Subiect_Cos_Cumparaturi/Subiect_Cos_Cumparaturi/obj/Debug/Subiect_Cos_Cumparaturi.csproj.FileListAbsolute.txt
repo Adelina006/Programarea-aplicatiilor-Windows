@@ -1,0 +1,12 @@
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\bin\Debug\Subiect_Cos_Cumparaturi.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\bin\Debug\Subiect_Cos_Cumparaturi.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\bin\Debug\Subiect_Cos_Cumparaturi.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Cos_Cumparaturi\Subiect_Cos_Cumparaturi\obj\Debug\Subiect_Cos_Cumparaturi.FormAdugare.resources

@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\fakedadabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\fakedadabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem6_catalog_carti\\sem6_catalog_carti\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\carterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\carterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\sem6_catalog_carti\\gencarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D654F-4567-47AF-BB3E-99787826DDBC}|Sem6_Catalog_carti\\Sem6_Catalog_carti.csproj|solutionrelative:sem6_catalog_carti\\gencarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCarte.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\FormCarte.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\FormCarte.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\FormCarte.cs",
+              "RelativeToolTip": "Sem6_Catalog_carti\\FormCarte.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAhwFEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:09:08.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\Form1.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\Form1.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\Form1.cs [Design]",
+              "RelativeToolTip": "Sem6_Catalog_carti\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:20:29.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\Form1.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\Form1.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\Form1.cs",
+              "RelativeToolTip": "Sem6_Catalog_carti\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:44:35.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\CarteRepo.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\CarteRepo.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\CarteRepo.cs",
+              "RelativeToolTip": "Sem6_Catalog_carti\\CarteRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:29:43.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCarte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\FormCarte.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\FormCarte.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\FormCarte.cs [Design]",
+              "RelativeToolTip": "Sem6_Catalog_carti\\FormCarte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:05:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeDadabase.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\FakeDadabase.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\FakeDadabase.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\FakeDadabase.cs",
+              "RelativeToolTip": "Sem6_Catalog_carti\\FakeDadabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:24:27.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carte.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\Carte.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\Carte.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\Carte.cs",
+              "RelativeToolTip": "Sem6_Catalog_carti\\Carte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:22:10.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenCarte.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\GenCarte.cs",
+              "RelativeDocumentMoniker": "Sem6_Catalog_carti\\GenCarte.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem6_Catalog_carti\\Sem6_Catalog_carti\\GenCarte.cs",
+              "RelativeToolTip": "Sem6_Catalog_carti\\GenCarte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:21:16.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

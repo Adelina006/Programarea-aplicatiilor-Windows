@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem3_urmarire_comenzi\\sem3_urmarire_comenzi\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|solutionrelative:sem3_urmarire_comenzi\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem3_urmarire_comenzi\\sem3_urmarire_comenzi\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|solutionrelative:sem3_urmarire_comenzi\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem3_urmarire_comenzi\\sem3_urmarire_comenzi\\starecomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|solutionrelative:sem3_urmarire_comenzi\\starecomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|c:\\users\\padel\\desktop\\pregatire_paw\\sem3_urmarire_comenzi\\sem3_urmarire_comenzi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5984F00C-A313-4335-9913-6352161602A6}|Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi.csproj|solutionrelative:sem3_urmarire_comenzi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comanda.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\Comanda.cs",
+              "RelativeDocumentMoniker": "Sem3_Urmarire_Comenzi\\Comanda.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\Comanda.cs",
+              "RelativeToolTip": "Sem3_Urmarire_Comenzi\\Comanda.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:51:55.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\Produs.cs",
+              "RelativeDocumentMoniker": "Sem3_Urmarire_Comenzi\\Produs.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\Produs.cs",
+              "RelativeToolTip": "Sem3_Urmarire_Comenzi\\Produs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:50:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StareComanda.cs",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\StareComanda.cs",
+              "RelativeDocumentMoniker": "Sem3_Urmarire_Comenzi\\StareComanda.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\StareComanda.cs",
+              "RelativeToolTip": "Sem3_Urmarire_Comenzi\\StareComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:49:09.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\Form1.cs",
+              "RelativeDocumentMoniker": "Sem3_Urmarire_Comenzi\\Form1.cs",
+              "ToolTip": "C:\\Users\\padel\\Desktop\\Pregatire_paw\\Sem3_Urmarire_Comenzi\\Sem3_Urmarire_Comenzi\\Form1.cs [Design]",
+              "RelativeToolTip": "Sem3_Urmarire_Comenzi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:23:07.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

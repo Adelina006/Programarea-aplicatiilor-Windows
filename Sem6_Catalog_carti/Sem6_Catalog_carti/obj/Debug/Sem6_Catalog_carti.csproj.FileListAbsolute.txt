@@ -1,0 +1,12 @@
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\bin\Debug\Sem6_Catalog_carti.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\bin\Debug\Sem6_Catalog_carti.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\bin\Debug\Sem6_Catalog_carti.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Sem6_Catalog_carti\Sem6_Catalog_carti\obj\Debug\Sem6_Catalog_carti.FormCarte.resources

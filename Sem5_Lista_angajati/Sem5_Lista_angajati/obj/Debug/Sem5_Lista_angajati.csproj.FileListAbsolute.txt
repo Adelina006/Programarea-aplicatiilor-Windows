@@ -1,0 +1,12 @@
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\bin\Debug\Sem5_Lista_angajati.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\bin\Debug\Sem5_Lista_angajati.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\bin\Debug\Sem5_Lista_angajati.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.FormAngajat.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.exe
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Sem5_Lista_angajati\Sem5_Lista_angajati\obj\Debug\Sem5_Lista_angajati.exe.config

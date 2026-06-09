@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregatire_Vilcea", "Pregatire_Vilcea\Pregatire_Vilcea.csproj", "{3CD32C40-CB85-400B-BFBD-D185839C00EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD32C40-CB85-400B-BFBD-D185839C00EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD32C40-CB85-400B-BFBD-D185839C00EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD32C40-CB85-400B-BFBD-D185839C00EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD32C40-CB85-400B-BFBD-D185839C00EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A40CD6A-3616-490D-B751-3C344E697D54}
+	EndGlobalSection
+EndGlobal

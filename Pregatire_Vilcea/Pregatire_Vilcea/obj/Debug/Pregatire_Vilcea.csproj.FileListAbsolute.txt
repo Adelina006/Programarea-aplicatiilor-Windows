@@ -1,0 +1,12 @@
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\bin\Debug\Bilbioteca.mdf
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\bin\Debug\Bilbioteca_log.ldf
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\bin\Debug\Pregatire_Vilcea.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\bin\Debug\Pregatire_Vilcea.exe
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\bin\Debug\Pregatire_Vilcea.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.exe
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Pregatire_Vilcea\Pregatire_Vilcea\obj\Debug\Pregatire_Vilcea.exe.config

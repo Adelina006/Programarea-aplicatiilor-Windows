@@ -1,0 +1,12 @@
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\bin\Debug\Subiect_Biciclete_publice.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\bin\Debug\Subiect_Biciclete_publice.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\bin\Debug\Subiect_Biciclete_publice.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Biciclete_publice\Subiect_Biciclete_publice\obj\Debug\Subiect_Biciclete_publice.FormGrafic.resources

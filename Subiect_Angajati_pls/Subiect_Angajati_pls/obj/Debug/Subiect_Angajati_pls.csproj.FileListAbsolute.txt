@@ -1,0 +1,14 @@
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\bin\Debug\Subiect_Angajati_pls.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\bin\Debug\Subiect_Angajati_pls.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\bin\Debug\Subiect_Angajati_pls.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.csproj.AssemblyReference.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.Properties.Resources.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.csproj.GenerateResource.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.csproj.CoreCompileInputs.cache
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.exe
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.pdb
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\bin\Debug\AngajatiDB.mdf
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\bin\Debug\AngajatiDB_log.ldf
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.exe.config
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.Form1.resources
+C:\Users\padel\Desktop\Pregatire_paw\Subiect_Angajati_pls\Subiect_Angajati_pls\obj\Debug\Subiect_Angajati_pls.FormAngajati.resources
